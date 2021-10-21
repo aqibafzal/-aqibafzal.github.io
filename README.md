@@ -1,2 +1,1 @@
-# -aqibafzal.github.io
-My GitHub pages portfolio website
+# Aqib Afzals portfolio website
